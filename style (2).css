@@ -1,0 +1,33 @@
+h1{
+    color:cadetblue;
+}
+/* *{
+    border:solid;
+}*/
+body{
+    background-color: whitesmoke;
+     
+}
+.header{
+    color:cadetblue;
+    background-color: #;
+    
+    justify-content: space-between;
+    text-align: center;
+}
+.menu{
+    font-size: large;
+}
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+p,h2{
+    text-align: center;
+}
+.footer{
+display:flex;
+justify-content: flex-start;
+
+}
